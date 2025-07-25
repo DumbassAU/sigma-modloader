@@ -47,7 +47,7 @@ Each mod can be toggled on or off, change the load order to make sure your mods 
 Don't know how to make mods yourself? Try out our mod generator, creating mods has never been easier!
 
 <h3>Automatic mod updates</h3>
-I have integrated my <a href="https://github.com/TheKliko/klikos-modding-tool">modding tool</a> to automatically update compatible mods.
+I have integrated my <a href="https://github.com/DumbassAU/skibidi-modding-tool">modding tool</a> to automatically update compatible mods.
 
 <h3>Community mods</h3>
 Browse community-made mods within the modloader menu.
